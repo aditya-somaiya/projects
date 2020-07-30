@@ -1,2 +1,2 @@
 # Projects
-Welcome to the repository of projects in the duration of college. Each folder will consist of a different project.
+Welcome to the projects I have made and contributed to. Each folder will consist of a different project.
